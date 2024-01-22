@@ -37,9 +37,9 @@ Enhanced Visibility: Provides clear insights into network activities.
 Decision Support: Assists in decision-making processes for developers, researchers and regular users.
 
 ## Use Case Examples
-Transaction Pattern Analysis: A feature allowing users to analyze trends in transaction types over time (e.g., token transfers, contract executions, staking operations).
-Smart Contract Interaction Tracker: A module to monitor and analyze the frequency and types of smart contract interactions.
-Network Health Dashboard: A comprehensive overview of the network's status, including block times, node performance, and transaction throughput.
+- Transaction Pattern Analysis: A feature allowing users to analyze trends in transaction types over time (e.g., token transfers, contract executions, staking operations).
+- Smart Contract Interaction Tracker: A module to monitor and analyze the frequency and types of smart contract interactions.
+- Network Health Dashboard: A comprehensive overview of the network's status, including block times, node performance, and transaction throughput.
 
 
 Link to resources:
