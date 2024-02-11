@@ -1,8 +1,10 @@
 # Metis-Analytics-Dashboard
 
 
-## Bounty Description
-Objective: Develop a comprehensive analytics dashboard for the Metis L2 blockchain. This platform should provide in-depth insights into network activity, including transaction patterns, contract interactions, cross-layer transactions and network scalability indicators.
+## Main Bounty Description
+
+Objective: Develop a comprehensive analytics dashboard for the Metis L2 blockchain. This platform should provide in-depth insights into network activity, including features such as transaction patterns, contract interactions, cross-layer transactions, network usage, gas usage, and any other feature considered appropriate for a deep understanding of the network and some of its main dApps.
+
 Significance: The dashboards should enhance visibility into network operations, helping developers, researchers and regular users in making informed decisions.
 
 
@@ -38,7 +40,9 @@ Decision Support: Assists in decision-making processes for developers, researche
 
 ## Use Case Examples
 - Transaction Pattern Analysis: A feature allowing users to analyze trends in transaction types over time (e.g., token transfers, contract executions, staking operations).
+  
 - Smart Contract Interaction Tracker: A module to monitor and analyze the frequency and types of smart contract interactions.
+  
 - Network Health Dashboard: A comprehensive overview of the network's status, including block times, node performance, and transaction throughput.
 
 ______
