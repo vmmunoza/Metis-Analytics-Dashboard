@@ -41,9 +41,25 @@ Decision Support: Assists in decision-making processes for developers, researche
 - Smart Contract Interaction Tracker: A module to monitor and analyze the frequency and types of smart contract interactions.
 - Network Health Dashboard: A comprehensive overview of the network's status, including block times, node performance, and transaction throughput.
 
+______
+-----------
+______
+----- 
 
 Link to resources:
 
+- Metis docs 
 https://github.com/Metis-DAO/Metis
 
+- Metis dev tools
 https://docs.metis.io/dev/tools/indexers/flair
+
+- Docker basics:
+https://github.com/vmmunoza/Docker-Basics
+
+- Data Extraction:
+https://github.com/vmmunoza/Get-Eth-Data
+
+- Quick Frontend on Metis with Scaffold0 ETH 2:
+https://github.com/derrekcoleman/metis-test
+
