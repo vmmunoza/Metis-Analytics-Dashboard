@@ -58,11 +58,19 @@ https://github.com/Metis-DAO/Metis
   
 https://docs.metis.io/dev/tools/indexers/flair
 
+- Simple smart contract deployment on Metis:
+
+https://www.youtube.com/watch?v=i7-0oVEINNY&t=913s
+
+https://www.youtube.com/watch?v=TKCje-f_NL4&t=1481s
+
 - Docker basics:
   
 https://github.com/vmmunoza/Docker-Basics
 
 - Data Extraction:
+
+https://github.com/vmmunoza/Extracting-Metis-L2-Data
   
 https://github.com/vmmunoza/Get-Eth-Data
 
