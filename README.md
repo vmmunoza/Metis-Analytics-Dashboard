@@ -47,18 +47,25 @@ ______
 #### Link to resources:
 
 - Metis docs:
+  
 https://github.com/Metis-DAO/Metis
 
 - Metis dev tools:
+  
 https://docs.metis.io/dev/tools/indexers/flair
 
 - Docker basics:
+  
 https://github.com/vmmunoza/Docker-Basics
 
 - Data Extraction:
+  
 https://github.com/vmmunoza/Get-Eth-Data
 
+https://github.com/goksualc/Metis-Introduction/blob/master/week2.md
+
 - Quick Frontend on Metis with Scaffold ETH 2:
+  
 https://github.com/derrekcoleman/metis-test
 
 ______
